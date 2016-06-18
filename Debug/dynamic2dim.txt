@@ -1,0 +1,7 @@
+The calculation is performed with the following parameters
+N  = 100000
+It = 1000
+R  = 0.017841
+dt = 0.002000
+neighb = 100
+delta_max = 10.000000
